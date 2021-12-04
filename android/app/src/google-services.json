@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865784170283",
+    "project_id": "safepass-cb520",
+    "storage_bucket": "safepass-cb520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865784170283:android:8479b61ee224a4f5bb276e",
+        "android_client_info": {
+          "package_name": "com.example.safe_pass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865784170283-b2a9tmfb64vfmt3hfkaicpb1lm75drup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufG7Q9Xn6OOsB1n5pa7AZiUe780NagNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865784170283-b2a9tmfb64vfmt3hfkaicpb1lm75drup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

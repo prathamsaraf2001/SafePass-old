@@ -1,0 +1,7 @@
+validator: (String noteHeading) {
+                          if (noteHeading.isEmpty) {
+                            return "Please enter Note Heading";
+                          } else if (noteHeading.startsWith(" ")) {
+                            return "Please avoid whitespaces";
+                          }
+                        },  
